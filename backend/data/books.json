@@ -1,0 +1,102 @@
+[
+    {
+        "id": "647f8d9a-97b5-461c-9cfe-b04d8b9e1028",
+        "name": "Algorithms to Live By The Computer Science of Human Decisions",
+        "author": "Brian Christian, Tom Griffiths",
+        "narrated": "Brian Christian",
+        "img": "https://m.media-amazon.com/images/I/519lKuoLN-L._SL500_.jpg",
+        "bookLength": "11 hrs and 50 mins",
+        "releaseDate": "19-04-16",
+        "language": "English"
+    },
+    {
+        "id": "acf5dcd6-0b8f-4838-9951-3dd1e0f88aee",
+        "name": "Psycho-Cybernetics Updated and Expanded",
+        "author": "Maxwell Maltz",
+        "narrated": "Matt Furey",
+        "img": "https://m.media-amazon.com/images/I/51XVTl7HZTL._SL500_.jpg",
+        "bookLength": "12 hrs and 16 mins",
+        "releaseDate": "11-04-17",
+        "language": "English"
+    },
+    {
+        "id": "edc89cce-c823-4690-afc3-d6aa7c8a3be9",
+        "name": "A Survival Guide for Life",
+        "author": "Bear Grylls",
+        "narrated": "Tom Patrick Stephens",
+        "img": "https://m.media-amazon.com/images/I/51pNAYZrptL._SL500_.jpg",
+        "bookLength": "3 hrs and 32 mins",
+        "releaseDate": "26-09-13",
+        "language": "English"
+    },
+    {
+        "id": "f19b22bb-c4b4-42a4-be32-4bffa6a89fac",
+        "name": "Never Split the Difference Negotiating as if Your Life Depended on It",
+        "author": "Chris Voss, Tahl Raz",
+        "narrated": "Michael Kramer",
+        "img": "https://m.media-amazon.com/images/I/51TSWCruAHL._SL500_.jpg",
+        "bookLength": "8 hrs and 7 mins",
+        "releaseDate": "20-06-19",
+        "language": "English"
+    },
+    {
+        "id": "94cb2436-2bdf-4872-bfd8-9acb860f5a0d",
+        "name": "A Life in Parts",
+        "author": "Bryan Cranston",
+        "narrated": "Bryan Cranston",
+        "img": "https://m.media-amazon.com/images/I/51nBvxV-3+L._SL500_.jpg",
+        "bookLength": "8 hrs and 51 mins",
+        "releaseDate": "20-10-16",
+        "language": "English"
+    },
+    {
+        "id": "e18926e7-494e-4604-82c5-daeb4ea1dde9",
+        "name": "Elon Musk",
+        "author": "Ashlee Vance",
+        "narrated": "Fred Sanders",
+        "img": "https://m.media-amazon.com/images/I/51e-uVPtr5L._SL500_.jpg",
+        "bookLength": "13 hrs and 23 mins",
+        "releaseDate": "28-04-16",
+        "language": "English"
+    },
+    {
+        "id": "f69fa7bb-93f6-497f-8e99-108467af8124",
+        "name": "Steve Jobs The Exclusive Biography",
+        "author": "Walter Isaacson",
+        "narrated": "Dylan Baker, Walter Isaacson (introduction)",
+        "img": "https://m.media-amazon.com/images/I/51b8AJgZETL._SL500_.jpg",
+        "bookLength": "25 hrs and 3 mins",
+        "releaseDate": "24-10-11",
+        "language": "English"
+    },
+    {
+        "id": "f4008cdd-1c76-4071-8dab-830b6fd3c379",
+        "name": "Gut",
+        "author": "Giulia Enders",
+        "narrated": "Katy Sobey",
+        "img": "https://m.media-amazon.com/images/I/5110ffzUFkL._SL500_.jpg",
+        "bookLength": "7 hrs and 26 mins",
+        "releaseDate": "24-06-15",
+        "language": "English"
+    },
+    {
+        "id": "5a1caf9b-f7ce-4ada-9046-309c66b2dc36",
+        "name": "The 4-Hour Work Week",
+        "author": "Timothy Ferriss",
+        "narrated": " Ray Porter",
+        "img": "https://m.media-amazon.com/images/I/518+s5Nu4XL._SL500_.jpg",
+        "bookLength": "13 hrs and 1 min",
+        "releaseDate": "10-11-11",
+        "language": "English"
+    },
+    {
+        "id": "86084cd9-5191-4c7f-99b8-acbb930070f1",
+        "name": "Cosmos",
+        "author": "Carl Sagan",
+        "narrated": "LeVar Burton, Seth MacFarlane, Neil deGrasse Tyson, Ann Druyan",
+        "img": "https://m.media-amazon.com/images/I/51e91glnHUL._SL500_.jpg",
+        "bookLength": "14 hrs and 31 mins",
+        "releaseDate": "30-05-17",
+        "language": "English"
+    }
+]
